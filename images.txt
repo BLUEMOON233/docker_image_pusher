@@ -2,3 +2,4 @@ nginx
 hello-world
 fishros2/ros:noetic-desktop-full
 ubuntu:22.04
+ubuntu:20.04
