@@ -3,3 +3,4 @@ hello-world
 fishros2/ros:noetic-desktop-full
 ubuntu:22.04
 ubuntu:20.04
+nvcr.io/nvidia/tensorrt:24.04-py3
